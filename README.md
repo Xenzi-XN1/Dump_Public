@@ -8,6 +8,7 @@
   pkg install nano
   pkg install git
   pkg install python
+  pip install requests
   ```
   </details>
   <details open>
@@ -15,6 +16,14 @@
 
   ```bash
   git clone https://github.com/Xenzi-XN1/Dump_Public
+  ```
+  </details>
+  <details open>
+  <summary><strong> Run Script </strong></summary>
+
+  ```bash
+  cd Dump_Public
+  python Dump_Public
   ```
   </details>
 - Tampilan Script
