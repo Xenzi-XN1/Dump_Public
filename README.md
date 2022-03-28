@@ -33,3 +33,12 @@
   ```
 
   ![NvChad](https://i.ibb.co/Jx74MhG/IMG-20220328-130421.jpg)
+
+- Hasil Dump
+
+  ```bash
+   Hasil Dump Tersimpan di id.txt
+  ```
+
+  ![NvChad](https://i.ibb.co/p0r0h3k/IMG-20220328-130407.jpg)
+
